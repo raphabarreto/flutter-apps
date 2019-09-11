@@ -1,3 +1,6 @@
 # flutter-beginners-tutorial
 
-All course files for the Flutter Beginners playlist on The Net Ninja YouTube channel.
+All course videos for the Flutter Beginners
+
+[Playlist](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) 📚
+
